@@ -1,6 +1,6 @@
 body {
-     background: lightcyan;
-     width: 800px;
+     background: lightcyan; /* Set the background to a light bluish color */
+     width: 800px; /* Set the body to 800 pixels */
      margin: auto;
 }
 
